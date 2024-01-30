@@ -1,46 +1,33 @@
-<h1>🚀 Aplicação ViaCEP usando Bootstrap</h1>
+<h1>🚀 Aplicação ViaCEP</h1>
         <h2>Visão Geral</h2>
         <p>A aplicação ViaCEP foi desenvolvida para consumir a API do ViaCep, proporcionando a obtenção de dados relacionados a CEPs. Além disso, a aplicação integra-se à API do Google Maps para fornecer funcionalidades adicionais. A interface da aplicação é composta por três botões: "Ir para o Mapa", "Reiniciar" e "Copiar". A pesquisa de CEP pode ser iniciada ao clicar no ícone de lupa.</p>
         <h2>Tecnologias Utilizadas</h2>
       <table>
- <table>
-  <thead>
-    <tr>
-      <th>Tecnologia</th>
-      <th>Versão</th>
-      <th>Imagem</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>HTML</td>
-      <td>HTML5</td>
-      <td><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Image"></td>
-    </tr>
-    <tr>
-      <td>CSS</td>
-      <td>CSS3</td>
-      <td><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Image"></td>
-    </tr>
-    <tr>
-      <td>JavaScript</td>
-      <td>ECMAScript 2023</td>
-      <td><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Image"></td>
-    </tr>
-    <tr>
-            
- <tr>
-  <td>Bootstrap</td>
-  <td>v3.0</td>
-<td><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap Image" ></td>
-</tr>
-
-
-  </tbody>
-</table>
-</tbody>
-
-</table>
+        <thead>
+            <tr>
+                <th>Tecnologia</th>
+                <th>Versão</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>HTML</td>
+                <td>HTML5</td> 
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td>CSS3</td> 
+            </tr>
+            <tr>
+                <td>JavaScript</td>
+                <td>ECMAScript 2023</td> 
+            </tr>
+            <tr>
+                <td>Bootstrap</td>
+                <td>5</td> 
+            </tr>
+        </tbody>
+    </table>
         <img src="https://github.com/edvaldovitor250/via-cep/assets/116117189/f1500ad2-89e7-4fa4-a60b-ba6a4140eb7f" alt="Captura de tela da aplicação" style="width:100%;">
         <h2>Funcionalidades</h2>
         <h3>🔍 Pesquisa de CEP</h3>
